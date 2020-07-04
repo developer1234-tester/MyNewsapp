@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General"
+        android:id="@+id/gen"/>
+
+    <item android:title="Business"
+        android:id="@+id/busi"/>
+
+    <item android:title="Entertainment"
+        android:id="@+id/enter"/>
+
+    <item android:title="Health"
+        android:id="@+id/helth"/>
+</menu>
